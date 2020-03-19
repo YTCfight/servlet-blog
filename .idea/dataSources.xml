@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL-servlet-blog" uuid="7859ab6f-c356-4d34-9403-9d4616e2fcb1">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/blogdemo</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Linux-blog" uuid="03e791ee-6a70-44a1-907e-8b131dd7989b">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://47.95.197.189:3306/blogdemo</jdbc-url>
+    </data-source>
+  </component>
+</project>
